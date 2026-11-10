@@ -5,7 +5,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ebe0e0;
+    background-color: #f0efef;
 }
 
 header,
@@ -39,6 +39,7 @@ img {
     width: 580px;
     height: auto;
     border: 10px solid white;
+    box-shadow: 5px 5px 10px gray;
 }
 
 section {
