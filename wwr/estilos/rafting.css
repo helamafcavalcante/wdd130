@@ -45,6 +45,7 @@ header {
   grid-template-columns: 160px 1fr;
   align-items: center;
   background-color: var(--cor-primaria);
+  border-bottom: 4px solid var(--cor-secundaria);
 }
 
 header img {
